@@ -18,9 +18,4 @@ abstract public class Kato_Chapter18 {
 		eachIntroduce();
 		
 	}
-	
-	public void setGivenName(String givenName) {
-		this.givenName = givenName;
-	}
-
 }
